@@ -1,5 +1,5 @@
 import io
-from elements.beam import Beam
+from staad.elements.beam import Beam
 
 
 class RectangleSection:
